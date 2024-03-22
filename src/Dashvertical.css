@@ -1,0 +1,145 @@
+
+
+.side{
+    background-image: linear-gradient( to bottom, rgba(17, 58, 119, 0.849), rgb(247, 244, 244));
+    color:white;
+    width: 200px;
+    height: 100vh;
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+.headernav{
+    text-align: center;
+    padding:10px;
+}
+.sidebar-nav{
+    text-decoration:none;
+}
+.mainheadings{
+    text-decoration:none;
+    list-style:none;
+    font-size:12px;
+    padding-left:0px;
+    padding-top:40px;
+}
+.man{
+    margin-top:20px;
+    width:45px;
+    height:45px;
+}
+.subheadings{
+    list-style:none;
+    font-size:16px;
+    padding-top:10px;
+    padding-bottom:10px;
+    color:rgb(107, 106, 106);
+}
+.subl{
+    text-decoration:none;
+    color:rgb(107, 106, 106);
+    padding-top:10px;
+    text-align:center;
+}
+.subb{
+    text-decoration:none;
+    padding-top:5px;
+}
+.subl:hover,.subl:focus{
+    color:white;
+}
+.profile{
+    text-align:center;
+}
+.username{
+    text-align:center;
+}
+.icony{
+    font-size:15px;
+    padding-right:10px;
+    
+}
+.toggle-btn {
+    cursor: pointer;
+    padding: 10px;
+    width:45px;
+    border-radius:50%;
+    background-color: #555;
+    display: flex;
+    justify-content: center;
+}
+.subl:hover,.subl:focus{
+    border:1px solid black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+.subl{
+    padding:10px;
+}
+  
+.open {
+    width: 200px;
+}
+  
+.closed {
+    width: 50px;
+}
+.gb{
+    display:flex;
+    margin-left:0px !important;
+    padding-left:0px !important;
+}
+main{
+    width: 100%;
+    padding: 20px;
+}
+.sidebar{
+    background: linear-gradient( to bottom, rgba(17, 58, 119, 0.849), rgb(24, 61, 228));
+    color: #fff;
+    height: 100vh;
+    width: 200px;
+    transition: all 0.5s;
+}
+.top_section{
+    display: flex;
+    align-items:center;
+    padding:20px 15px;
+    padding-bottom: 100px !important;
+}
+.logoo{
+    position:absolute;
+    width:120px;
+    left:50px;
+}
+.bars{
+    position:absolute;
+    left:5px;
+    color:black;
+    font-size: 25px;
+    margin-left:10px !important;
+}
+.linkd{
+    text-decoration: none;
+    display: flex;
+    color: #fff;
+    padding: 10px 15px;
+    gap: 15px;
+    transition: all 0.5s;
+}
+.linkd:hover,.linkd:focus{
+    border-radius: 40px 0px 40px 0px;
+    background:rgb(115, 204, 240);
+    color: #000;
+    transition: all 0.2s;
+}
+.activef{
+    background: rgb(154, 207, 240);
+    color: #000;
+}
+.iconf{
+    font-size:25px;
+} .link_text{
+    font-size: 20px;
+    text-decoration:none !important;
+}
+.link_text{
+    text-decoration-line: none;
+}

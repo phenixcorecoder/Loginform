@@ -1,0 +1,29 @@
+.logo-nav{
+    margin-bottom:0px;
+
+}
+.navbar{
+    height:66px !important;
+}
+.navbar-text {
+    color:black;
+    font-weight:600;
+    padding-top:30px;
+    padding-left:10px;
+    margin-bottom: 0;
+    line-height: 2; 
+}
+
+.logoutl{
+    text-decoration:none;
+    position:absolute;
+    right:-200px;
+    padding-top:30px;
+    margin-bottom:0;
+    line-height:2;
+    color:black;
+}
+.logoutl:focus,.logoutl:hover{
+    color:black;
+}
+
